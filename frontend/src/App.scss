@@ -1,0 +1,5 @@
+@use "~bootstrap/scss/bootstrap";
+
+.testing {
+    @extend .bg-primary, .text-uppercase
+}
